@@ -1,0 +1,58 @@
+[
+  {
+    "fullName": "Arabic",
+    "code": "ar"
+  },
+  {
+    "fullName": "Spanish",
+    "code": "es"
+  },
+  {
+    "fullName": "German",
+    "code": "de"
+  },
+  {
+    "fullName": "Dutch",
+    "code": "nl"
+  },
+  {
+    "fullName": "English",
+    "code": "en"
+  },
+  {
+    "fullName": "Finnish",
+    "code": "fi"
+  },
+  {
+    "fullName": "French",
+    "code": "fr"
+  },
+  {
+    "fullName": "Italian",
+    "code": "it"
+  },
+  {
+    "fullName": "Japanese",
+    "code": "ja"
+  },
+  {
+    "fullName": "Korean",
+    "code": "ko"
+  },
+  {
+    "fullName": "Portugese",
+    "code": "pt"
+  },
+  {
+    "fullName": "Malay",
+    "code": "msa"
+  },
+  {
+    "fullName": "Russian",
+    "code": "ru"
+  },
+  {
+    "fullName": "Chinese",
+    "code": "zh"
+  }
+]
